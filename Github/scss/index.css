@@ -1,0 +1,298 @@
+.Group5 {
+  width: 236px;
+  height: 26px;
+  top: 43.56px;
+  left: 80.1px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.p {
+  font-weight: 600;
+  display: flex;
+  gap: 30px;
+  margin-left: 900px;
+  margin-top: -30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.p .p1 {
+  color: darkgray;
+}
+
+.Bitmap {
+  width: 95%;
+  margin-top: 40px;
+  margin-left: 30px;
+  height: 100%;
+}
+
+.p2 {
+  font-family: Fraunces 9pt;
+  font-size: 72px;
+  margin-top: -470px;
+  margin-left: 120px;
+  font-weight: 900;
+  line-height: 72px;
+  text-align: left;
+  color: white;
+}
+
+.p3 {
+  color: darkgray;
+  margin-left: 120px;
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.but {
+  width: 217px;
+  height: 56px;
+  font-family: Fraunces 9pt;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 25px;
+  text-align: center;
+  border: 2px solid #66D2CF;
+  margin-top: 60px;
+  margin-left: 120px;
+  background-color: #66D2CF;
+  color: white;
+}
+
+.p4 {
+  font-size: 170px;
+  color: darkgray;
+  font-weight: 600;
+  text-align: center;
+}
+
+.Res {
+  transform: translate(0, -330px);
+  width: 1111px;
+  margin-left: 120px;
+  height: 396px;
+}
+
+.kopi1 {
+  width: 255px;
+  margin-left: 120px;
+  margin-top: -400px;
+  transform: translate(0, -70px);
+}
+
+.p5 {
+  font-family: Fraunces 9pt;
+  margin-left: -760px;
+  margin-top: -3px;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 32px;
+  text-align: center;
+}
+
+.p6 {
+  text-align: center;
+  margin-left: -750px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Card {
+  transform: translate(0, -240px);
+  margin-left: -100px;
+}
+
+.Card1 {
+  margin-left: 200px;
+  margin-top: -398px;
+}
+.Card1 .p7 {
+  font-family: Fraunces 9pt;
+  margin-left: -460px;
+  margin-top: -3px;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 32px;
+  text-align: center;
+}
+.Card1 .p8 {
+  text-align: center;
+  margin-left: -450px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Card2 {
+  margin-left: 500px;
+  margin-top: -160px;
+}
+.Card2 .p9 {
+  font-family: Fraunces 9pt;
+  margin-left: -208px;
+  margin-top: -3px;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 32px;
+  text-align: center;
+}
+.Card2 .p10 {
+  text-align: center;
+  margin-left: -195px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Card3 {
+  margin-left: 800px;
+  margin-top: -160px;
+}
+.Card3 .p9 {
+  font-family: Fraunces 9pt;
+  margin-left: 70px;
+  margin-top: -3px;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 32px;
+  text-align: center;
+}
+.Card3 .p10 {
+  text-align: center;
+  margin-left: 75px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.backround_1 {
+  background-color: rgb(2, 2, 63);
+  width: 90%;
+  margin-left: -290px;
+  margin-left: 90px;
+  margin-top: 90px;
+  border-radius: 12px;
+  height: 600px;
+}
+
+.p11 {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  transform: translate(0, 100px);
+}
+
+.p12 {
+  color: darkgray;
+  text-align: center;
+  transform: translate(0, 120px);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Color {
+  background-color: #0E8784;
+  width: 310px;
+  height: 362px;
+  margin-left: 150px;
+  margin-top: -190px;
+  border-radius: 12px;
+}
+
+.Grid {
+  display: flex;
+  gap: -52px;
+  margin-left: -120px;
+}
+
+.Shape1 {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.p13 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.p14 {
+  text-align: center;
+  color: white;
+}
+
+.p15 {
+  color: darkgray;
+  font-size: 30px;
+  margin-top: 120px;
+  margin-left: 30px;
+}
+
+.Line {
+  margin-left: 120px;
+}
+
+.p01 {
+  color: #FDD6BA;
+  font-size: 70px;
+  margin-left: 30px;
+}
+
+.p17 {
+  font-size: 30px;
+  margin-left: 30px;
+  font-weight: 700;
+  margin-top: -50px;
+}
+
+.p18 {
+  color: darkgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 30px;
+}
+
+.P3 {
+  display: flex;
+  gap: 30px;
+  margin-left: 90px;
+}
+
+.Footer {
+  width: 1120px;
+  margin-left: 60px;
+  margin-top: 120px;
+  height: 130px;
+  background-color: #2C343E;
+}
+.Footer .Foter1 {
+  width: 330px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.Grid_1 {
+  display: flex;
+  gap: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 400px;
+  margin-top: -40px;
+}
+
+.p04 {
+  color: darkgray;
+}
+
+.p03 {
+  color: darkgray;
+}
+
+.icon {
+  margin-left: 900px;
+  margin-top: -220px;
+}
+
+@media only screen and (max-width: 920px) {
+  .Bitmap {
+    width: 1020px;
+    margin-left: 120px;
+  }
+  .p4 {
+    font-size: 120px;
+  }
+  .Grid_2 {
+    display: grid;
+    grid-template-columns: auto;
+  }
+}/*# sourceMappingURL=index.css.map */
